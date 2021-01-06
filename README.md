@@ -2,6 +2,15 @@
 
 A new Flutter application.
 
+![Destini1](https://user-images.githubusercontent.com/49126003/103776292-0ae0a680-5051-11eb-88fa-d67ce210b2ae.png)
+
+
+![Destini2](https://user-images.githubusercontent.com/49126003/103776315-13d17800-5051-11eb-9218-17c47948ee6d.png)
+
+
+![Destini3](https://user-images.githubusercontent.com/49126003/103776326-1764ff00-5051-11eb-897e-fa584b61f7d3.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
